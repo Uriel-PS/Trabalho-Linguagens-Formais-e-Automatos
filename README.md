@@ -16,3 +16,7 @@ Período: **2025/2**
 - Simula a execução da máquina, gerando uma sequência de saídas (`0`, `1` e `\n`).
 - Constrói automaticamente uma **imagem PPM (P1)** com base na saída.
 - Permite visualizar a imagem diretamente no **Google Colab** ou convertê-la para `.png`.
+
+---
+
+**LEIA O RELATÓRIO PARA MAIORES INFORMAÇÕES**
